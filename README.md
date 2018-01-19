@@ -16,7 +16,7 @@ This software consists of three parts:
 
 
 ######################################################
-#Instructions about running the ISS MetaData Server
+# Instructions about running the ISS MetaData Server
 ######################################################
 1. The class path is iss.metadataserver.*
 2. First run the ISSStat. For now it will allocate some space in the localhost, so that all the files which are on the cloud will be stored in the same host.   
